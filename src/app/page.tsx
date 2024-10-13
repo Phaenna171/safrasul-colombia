@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-8 h-screen w-screen justify-center">
       <Image
-        className="relative z-10 -mb-20"
+        className="relative z-10 -mb-10"
         src="/logo.png"
         alt="Next.js logo"
         width={500}
